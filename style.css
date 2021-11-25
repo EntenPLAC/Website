@@ -1,0 +1,58 @@
+<style>
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+#top {
+text-align: center;
+}
+#logo {
+    color: rgb(0, 174, 255);
+    background-color:rgb(0, 255, 55);
+    display: inline-block;
+    font-size: 60px;
+    font-weight: bold;
+    padding: 8px ;
+    margin-top: 16px;
+    font-family: fantasy;
+}   
+#logo-name {
+font-size: 32px;
+font-weight: bold;
+margin: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+#navigation a {
+    color:grey;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#navigation a:hover {
+    color: rgb(0, 0, 0);
+}
+
+#image img {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#main {
+    max-width: 800px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+#footer {
+    text-align: center;
+    padding: 20px;
+    color: rgb(119, 117, 117);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
